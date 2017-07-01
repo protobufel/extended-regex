@@ -47,7 +47,7 @@ import static org.hamcrest.Matchers.not;
 import static org.junit.Assert.assertThat;
 
 @RunWith(JUnit4.class)
-@NonNullByDefault(false)
+@NonNullByDefault
 //TODO provide additional thorough tests for all Patterns' classes! 
 public class PatternsTest {
   private Pattern expected;
